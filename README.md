@@ -1,4 +1,4 @@
-# BilanzTool HGB
+# BillAccounty HGB
 
 Interaktives Buchhaltungstool zur automatischen Bilanzanalyse nach **HGB §266**.
 Unterstützt Excel (.xlsx) und PDF-Dateien. Kategorisiert Bestände nach SKR03/SKR04.
