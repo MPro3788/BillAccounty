@@ -45,7 +45,6 @@ bilanz-tool/
 **Voraussetzungen:** Java 17+, Maven 3.8+
 
 ```bash
-cd backend
 mvn clean install
 mvn spring-boot:run
 # → läuft auf http://localhost:8080
