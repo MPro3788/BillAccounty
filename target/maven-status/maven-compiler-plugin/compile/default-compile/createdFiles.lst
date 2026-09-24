@@ -1,0 +1,5 @@
+com/bill/accounty/model/BilanzPosition.class
+com/bill/accounty/AccountyApplication.class
+com/bill/accounty/web/BilanzController.class
+com/bill/accounty/service/HgbKategorisierungService.class
+com/bill/accounty/model/BilanzAntwort.class
